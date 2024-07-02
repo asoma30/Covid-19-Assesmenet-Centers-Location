@@ -1,5 +1,7 @@
 # Covid-19-Assesmenet-Centers-Location
-**tentative stages**
+
+# tentative stages
+
 1)	Data Collection: Initial step to gather raw data from various sources.
 2)	Data Preparation: Process of cleaning and transforming raw data into a usable format.
 3)	Visualization: Creating visual representations (charts, graphs) to explore data patterns and insights.
@@ -8,14 +10,11 @@
 6)	Reporting: Communicating findings and insights to stakeholders through reports or presentations.
 
 
-**repository content**
+# Repository Content
 - Set of technical reports
 - compilation of the uploaded technical reports
 - Read me file
 - link to the working dataset
 
-  link to the dataset : 
+# link to the dataset : 
 https://covid-19.ontario.ca/assessment-centre-locations/
-
-
-   
