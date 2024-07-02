@@ -8,8 +8,14 @@
 6)	Reporting: Communicating findings and insights to stakeholders through reports or presentations.
 
 
+**repository content**
+- Set of technical reports
+- compilation of the uploaded technical reports
+- Read me file
+- link to the working dataset
 
+  link to the dataset : 
+https://covid-19.ontario.ca/assessment-centre-locations/
 
-  
 
    
